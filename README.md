@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm [Carlton James]
 
-<!--
-**carlton-james/carlton-james** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- I'm currently learning [im studying (AI) Artificial Intelligence at Mahanaim Collage].
+- I'm interested in [Artificial Intelligence,Web Development and Machine Learning].
+- I'm looking to collaborate on [AI projects and Machine Learning applications].
 
-Here are some ideas to get you started:
+## Skills I'm Building
+- Git and GitHub
+- [Data analysis,Problem Solving,Artificiall Intelligence,Deep Learning and Linux Basics]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- [AI Learning Jounery](link) — short description
+
+## How to Reach Me
+- Email: [carltonjames414@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/carlton-james-169333417?utm_source=share_via&utm_content=profile&utm_medium=member_android]Commit Changes
